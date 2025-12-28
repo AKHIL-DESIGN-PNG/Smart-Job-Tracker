@@ -152,24 +152,28 @@ http://localhost:3000
 ---
 
 ## Screenshots
+---
+### create account and JOIN_SMART_JOB_TRACKER_COMMUNITY_TODAY
+<img width="1917" height="947" alt="image" src="https://github.com/user-attachments/assets/d652e570-b0b9-4a4f-8601-c394e0c37a59" />
+
 
 ### Login Page
-<img width="1919" height="950" alt="Login Page" src="https://github.com/user-attachments/assets/1a6259cc-f390-45e5-843a-15272c1d3246" />
+<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/d70f9810-9b5c-4651-b116-8bdb104db3fb" />
 
 ---
 
 ### Dashboard
-<img width="1919" height="936" alt="Dashboard" src="https://github.com/user-attachments/assets/2067878e-bcaf-4abe-8f2c-3e3b886a1a42" />
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/e5c1cecc-393c-45ba-8fd1-207f050975e1" />
 
 ---
 
 ###  Add Job Application
-<img width="1919" height="954" alt="Add Job Application" src="https://github.com/user-attachments/assets/eb1bad23-9fa0-4b88-a25a-b2aa9ac8c6b5" />
+<img width="1917" height="939" alt="image" src="https://github.com/user-attachments/assets/63de55d5-2255-4a99-88a8-c81e5225c5be" />
 
 ---
 
 ###  Application History
-<img width="1917" height="943" alt="Application History" src="https://github.com/user-attachments/assets/a426e868-6087-461b-a888-263cd97b5340" />
+<img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/07f402b5-9a26-46c5-8834-8ef3c1a97d89" />
 
 
 ##  Why This Project?
