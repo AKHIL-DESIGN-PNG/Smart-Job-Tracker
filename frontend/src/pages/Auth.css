@@ -1,0 +1,116 @@
+/* FULL SCREEN BACKGROUND */
+.auth-page {
+  min-height: 100vh;
+  background-image: url("./job_tracker_application.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* GLASS LOGIN / REGISTER CARD */
+.auth-container {
+  width: 380px;
+  padding: 35px 30px;
+  border-radius: 18px;
+
+  background: rgba(255, 255, 255, 0.22);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+
+  box-shadow: 0 25px 50px rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+
+  text-align: center;
+  color: #ffffff;
+}
+
+/* TITLE */
+.auth-container h2 {
+  margin-bottom: 22px;
+  font-size: 26px;
+  font-weight: 600;
+}
+
+/* INPUT GROUP */
+.input-group {
+  position: relative;
+  margin-bottom: 14px;
+}
+
+/* INPUT FIELDS */
+.input-group input {
+  width: 100%;
+  padding: 12px 46px 12px 16px; /* space for eye icon */
+  border-radius: 25px;
+  border: none;
+  outline: none;
+
+  font-size: 14px;
+  background: rgba(255, 255, 255, 0.95);
+  color: #333;
+}
+
+/* PLACEHOLDER */
+.input-group input::placeholder {
+  color: #777;
+}
+
+/* 👁️ SHOW / HIDE PASSWORD ICON */
+.toggle-password {
+  position: absolute;
+  right: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+
+  cursor: pointer;
+  font-size: 16px;
+  color: #666;
+  user-select: none;
+}
+
+.toggle-password:hover {
+  color: #000;
+}
+
+/* LOGIN / REGISTER BUTTON */
+.auth-container button {
+  width: 100%;
+  padding: 12px;
+  margin-top: 12px;
+
+  border: none;
+  border-radius: 25px;
+
+  background: linear-gradient(135deg, #ffffff, #e6e6e6);
+  color: #333;
+  font-size: 15px;
+  font-weight: 600;
+
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.auth-container button:hover {
+  background: linear-gradient(135deg, #f5f5f5, #dddddd);
+}
+
+/* LINKS */
+.link {
+  margin-top: 16px;
+  font-size: 14px;
+}
+
+.link a {
+  color: #ffffff;
+  text-decoration: none;
+  opacity: 0.9;
+}
+
+.link a:hover {
+  text-decoration: underline;
+  opacity: 1;
+}
